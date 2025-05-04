@@ -12,8 +12,11 @@
 🎓 Tecnólogo em Redes de Computadores pela Universidade Campo Verde - UNICV  
 📍 Experiência com SaaS, rastreamento veicular, infraestrutura e suporte técnico  
 
-[GitHub](https://github.com/Paulohco47) | [GitLab](https://gitlab.com/Paulohco47) | [LinkedIn](https://www.linkedin.com/in/paulo-henrique-9493301bb/)  
-📧 paulo.hco47@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Paulohco47)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/Paulohco47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-9493301bb/)
+[![Email](https://img.shields.io/badge/Email-paulo.hco47@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:paulo.hco47@gmail.com)
+
 
 ---
 
