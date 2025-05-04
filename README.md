@@ -1,5 +1,9 @@
 # 👨‍💻 Paulo Henrique Carvalho de Oliveira
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
+
 **Programador Júnior | Front-end com Vue 3 | DevOps | Infraestrutura Linux**
 
 🎓 Tecnólogo em Redes de Computadores pela Universidade Campo Verde - UNICV  
