@@ -90,9 +90,9 @@ Estou em constante evolução, buscando oportunidades para aplicar minhas habili
 
 ## 📬 Contato
 
-- 📧 paulo.hco47@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-9493301bb/)  
-- 💻 GitHub: [Paulohco47](https://github.com/Paulohco47)  
-- 🧪 GitLab: [Paulohco47](https://gitlab.com/Paulohco47)
+- 📧 **Email:** [paulo.hco47@gmail.com](mailto:paulo.hco47@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/paulo-henrique-9493301bb](https://www.linkedin.com/in/paulo-henrique-9493301bb/)
+- 🐙 **GitHub:** [github.com/Paulohco47](https://github.com/Paulohco47)
+- 🦊 **GitLab:** [gitlab.com/Paulohco47](https://gitlab.com/Paulohco47)
 
 ---
