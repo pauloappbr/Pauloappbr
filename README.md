@@ -1,8 +1,11 @@
 # 👨‍💻 Paulo Henrique Carvalho de Oliveira
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Vue.js](https://img.shields.io/badge/vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-CA2130?logo=apache&logoColor=white)
 
 **Programador Júnior | Front-end com Vue 3 | DevOps | Infraestrutura Linux**
 
