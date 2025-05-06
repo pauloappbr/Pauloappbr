@@ -1,99 +1,37 @@
-# 👨‍💻 Paulo Henrique
+
+# Paulo Henrique
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/guide/introduction.html)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation/using-vite)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://docs.kernel.org/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
-
-![Snake animation](https://github.com/Paulohco47/Paulohco47/blob/output/github-contribution-grid-snake.svg)
-**Programador Júnior | Front-end com Vue 3 | DevOps | Infraestrutura Linux**
-
-🎓 Tecnólogo em Redes de Computadores pela Universidade Campo Verde - UNICV  
-📍 Experiência com SaaS, rastreamento veicular, infraestrutura e suporte técnico  
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Paulohco47)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/Paulohco47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-9493301bb/)
-[![Email](https://img.shields.io/badge/Email-paulo.hco47@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:paulo.hco47@gmail.com)
-
+👋 **About Me**  
+I'm a front-end developer passionate about infrastructure and automation.
+Currently, I work on the front-end of an **IoT** SaaS platform, while actively building my **DevOps** skill set by deploying and maintaining open-source solutions in **Linux** environments.
 
 ---
 
-## 🧠 Sobre Mim
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="Open Source" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+</p>
 
-Sou um desenvolvedor júnior com perfil técnico versátil e sólido. Atuo atualmente com front-end (Vue 3 + Tailwind), versionamento com GitLab e deploy via Docker/PM2. Tenho mais de 2 anos de experiência como suporte técnico de TI, atuando com servidores Linux, redes, automação e plataformas open-source auto-hospedadas.
-
-Também sei utilizar e manter ferramentas como Chatwoot, Supabase, Zammad e iRedMail, com configuração de certificados SSL, domínios e subdomínios. Busco sempre automatizar tarefas e aumentar a produtividade com o uso de agentes de IA criados por mim.
-
----
-
-## 💼 Experiência Profissional
-
-### 🚗 Desenvolvedor Front-end – Plataforma SaaS de Rastreamento Veicular
-**(atual - < 6 meses)**  
-- Vue 3 (Options API), Tailwind CSS  
-- GitLab CI/CD, Docker, PM2, Apache2  
-- Integração com dispositivos IoT (rastreador veicular)
-
-### 🛠️ Suporte Técnico em TI (2+ anos)  
-- Servidores Linux (UC2, Samba), pfSense  
-- Monitoramento com Apache Guacamole  
-- Atendimento a empresas e hotéis (CFTV, PABX, eventos, rede com Wi-Fi 6, balanceamento de carga e failover)
 
 ---
-
-## 🚀 Formação Técnica
-
-**👨‍🎓 Universidade Campo Verde - UNICV**  
-_Tecnólogo em Redes de Computadores_
-
-**💻 Formação Full Stack - Geração Tech**  
-- Front-end: HTML5, CSS3, JavaScript, React  
-- Back-end: Node.js  
-- Banco de dados: MySQL, MariaDB, MongoDB  
-- Testes: Cypress
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-| Área | Tecnologias |
-|------|-------------|
-| **Front-end** | Vue 3 (Options API), Tailwind CSS, React |
-| **Back-end** | Node.js |
-| **Banco de dados** | MySQL, MariaDB, MongoDB |
-| **DevOps** | Docker, Docker Compose, GitLab CI/CD, PM2, Apache2 |
-| **Infraestrutura** | Linux (UC2, Samba), pfSense, Guacamole |
-| **Produtividade / IA** | Criação de agentes de IA para automação |
-| **Open Source** | Chatwoot, Supabase, Zammad, iRedMail |
-| **Web** | Domínios, subdomínios e SSL com Let's Encrypt |
-
----
-
-## 📦 Projetos Relevantes
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Chatwoot auto-hospedado** | Atendimento via chat com integração de domínio e SSL | Docker, Apache, Let's Encrypt |
-| **Supabase backend pronto para SaaS** | Backend configurado com autenticação e banco | Supabase, Docker |
-| **Agente IA para produtividade** | Automação de tarefas técnicas usando IA | Python/OpenAI API |
-| **Zammad sistema de tickets** | Helpdesk corporativo com SSL e domínio próprio | Docker, Linux, Let's Encrypt |
-
----
-
-## 🎯 Objetivo
-
-Estou em constante evolução, buscando oportunidades para aplicar minhas habilidades em projetos desafiadores, especialmente nas áreas de DevOps, desenvolvimento web e sistemas distribuídos. Meu foco atual está na criação de soluções autossuficientes, com baixo custo de manutenção e alto grau de automação.
-
----
-
-## 📬 Contato
-
-- 📧 **Email:** [paulo.hco47@gmail.com](mailto:paulo.hco47@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/paulo-henrique-9493301bb](https://www.linkedin.com/in/paulo-henrique-9493301bb/)
-- 🐙 **GitHub:** [github.com/Paulohco47](https://github.com/Paulohco47)
-- 🦊 **GitLab:** [gitlab.com/Paulohco47](https://gitlab.com/Paulohco47)
-
----
+<p align="left">
+  <a href="mailto:paulo.hco47@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-9493301bb/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Paulohco47" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/Paulohco47" title="GitLab">
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  </a>
+</p>
