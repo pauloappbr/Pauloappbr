@@ -7,13 +7,47 @@ Currently, I work on the front-end of an **IoT** SaaS platform, while actively b
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="Open Source" width="40" style="margin: 10px;"/> &nbsp;&nbsp;
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/guide/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a> &nbsp;&nbsp;
+
+  <!-- Open Source -->
+  <a href="https://opensource.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="Open Source" width="40" style="margin: 10px; border: 0;"/>
+    &#8203;
+  </a>
 </p>
 
 
