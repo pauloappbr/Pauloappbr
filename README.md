@@ -1,9 +1,6 @@
-
-# Paulo Henrique
+# 👋 **About Me**  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-👋 **About Me**  
 I'm a front-end developer passionate about infrastructure and automation.
 Currently, I work on the front-end of an **IoT** SaaS platform, while actively building my **DevOps** skill set by deploying and maintaining open-source solutions in **Linux** environments.
 
