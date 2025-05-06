@@ -7,7 +7,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://docs.kernel.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
 
-![Snake animation](https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Paulohco47/Paulohco47/blob/output/github-contribution-grid-snake.svg)
 **Programador Júnior | Front-end com Vue 3 | DevOps | Infraestrutura Linux**
 
 🎓 Tecnólogo em Redes de Computadores pela Universidade Campo Verde - UNICV  
