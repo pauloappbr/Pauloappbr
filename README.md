@@ -1,5 +1,5 @@
 # 👋 **About Me**  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="../animacao.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 I'm a software developer focused on DevOps, automation, and self-hosted systems.
 I use Go and TypeScript to build scalable apps and manage containerized infrastructure in Linux environments.
