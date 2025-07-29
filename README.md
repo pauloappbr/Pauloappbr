@@ -1,62 +1,56 @@
 # 👋 **About Me**  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm a front-end developer passionate about infrastructure and automation.
-Currently, I work on the front-end of an **IoT** SaaS platform, while actively building my **DevOps** skill set by deploying and maintaining open-source solutions in **Linux** environments.
+I'm a software developer focused on DevOps, automation, and self-hosted systems.
+I use Go and TypeScript to build scalable apps and manage containerized infrastructure in Linux environments.
 
 ---
 
 <p align="center">
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/guide/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
+  <!-- Golang -->
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" style="margin: 10px;"/>
+  </a>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin: 10px;"/>
+  </a>
 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;"/>
+  </a>
 
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;"/>
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" style="margin: 10px;"/>
+  </a>
+
+  <!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" style="margin: 10px;"/>
+  </a>
 
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
-  </a> &nbsp;&nbsp;
-
-  <!-- Open Source -->
-  <a href="https://opensource.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="Open Source" width="40" style="margin: 10px; border: 0;"/>
-    &#8203;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px;"/>
   </a>
 </p>
 
 
+
 ---
 <p align="left">
-  <a href="mailto:paulo.hco47@gmail.com" title="Gmail">
+  <a href="mailto:contato@paulo.app.br" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-9493301bb/" title="LinkedIn">
+  <a href="www.linkedin.com/in/paulo-app" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Paulohco47" title="GitHub">
