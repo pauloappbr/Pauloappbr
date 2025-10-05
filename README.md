@@ -50,10 +50,10 @@ I use Go and TypeScript to build scalable apps and manage containerized infrastr
   <a href="mailto:contato@paulo.app.br" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/paulo-app" title="LinkedIn">
+  <a href="https://linkedin.com/in/paulo-app" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Paulohco47" title="GitHub">
+  <a href="https://github.com/Pauloappbr" title="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/Paulohco47" title="GitLab">
