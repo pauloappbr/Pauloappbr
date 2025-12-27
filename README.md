@@ -1,21 +1,16 @@
 # 👋 **About Me**  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm a software developer focused on DevOps, automation, and self-hosted systems.
-I use Go and TypeScript to build scalable apps and manage containerized infrastructure in Linux environments.
+I am a Software Developer with a strong DevOps mindset, focused on bridging the gap between application logic and infrastructure. I specialize in building scalable, high-performance applications using Go and TypeScript, ensuring they run efficiently in containerized Linux environments.
+
+My passion lies in automation and self-hosted systems. I don't just write code; I architect the ecosystems where it lives. I am also an active open-source contributor, helping improve tools like Kubernetes, Vue.js, Caddy, and Gin to benefit the wider developer community.
 
 ---
 
 <p align="center">
   <!-- Gin Gonic -->
   <a href="https://gin-gonic.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" alt="Gin Gonic" width="40" style="margin: 10px;"/>
-  </a>
-
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin: 10px;"/>
+    <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" alt="Gin Gonic" width="40" style="margin: 10px;"/>
   </a>
   
   <!-- Vue.js -->
@@ -23,9 +18,9 @@ I use Go and TypeScript to build scalable apps and manage containerized infrastr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px;"/>
   </a>
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;"/>
+  <!-- containerd -->
+  <a href="https://containerd.io/" target="_blank">
+    <img src="https://landscape.cncf.io/logos/f26381b645b2f14293a2a597bc98b5bbe1e5e086029de41830ba7c667353bf3e.svg" alt="containerd" width="50" height="38" style="margin: 10px;"/>
   </a>
 
   <!-- Kubernetes -->
@@ -34,14 +29,10 @@ I use Go and TypeScript to build scalable apps and manage containerized infrastr
   </a>
 
   <!-- Terraform -->
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" style="margin: 10px;"/>
+  <a href="https://caddyserver.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Caddyserver_logo_-_no_wordmark.svg/2113px-Caddyserver_logo_-_no_wordmark.svg.png" alt="Caddy" width="40" style="margin: 10px;"/>
   </a>
 
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px;"/>
-  </a>
 </p>
 
 
