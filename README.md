@@ -7,19 +7,20 @@ I use Go and TypeScript to build scalable apps and manage containerized infrastr
 ---
 
 <p align="center">
-  <!-- Golang -->
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" style="margin: 10px;"/>
+  <!-- Gin Gonic -->
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" alt="Gin Gonic" width="40" style="margin: 10px;"/>
   </a>
+
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin: 10px;"/>
   </a>
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;"/>
+  
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px;"/>
   </a>
 
   <!-- Docker -->
@@ -55,8 +56,5 @@ I use Go and TypeScript to build scalable apps and manage containerized infrastr
   </a>
   <a href="https://github.com/Pauloappbr" title="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/Paulohco47" title="GitLab">
-    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   </a>
 </p>
