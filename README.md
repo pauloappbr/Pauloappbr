@@ -1,51 +1,24 @@
-# 👋 **About Me**  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-I am a Software Developer with a strong DevOps mindset, focused on bridging the gap between application logic and infrastructure. I specialize in building scalable, high-performance applications using Go and TypeScript, ensuring they run efficiently in containerized Linux environments.
-
-My passion lies in automation and self-hosted systems. I don't just write code; I architect the ecosystems where it lives. I am also an active open-source contributor, helping improve tools like Kubernetes, Vue.js, Caddy, and Gin to benefit the wider developer community.
-
----
-
-<p align="center">
-  <!-- Gin Gonic -->
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" alt="Gin Gonic" width="40" style="margin: 10px;"/>
-  </a>
+<div align="center">
+  <h1>Paulo</h1>
+  <p><b>Open Source Enthusiast | Gopher</b></p>
   
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin: 10px;"/>
+  <p>Creator of <b><a href="https://github.com/pauloappbr/gojinn">Gojinn</a></b>. Passionate about Golang, cloud-agnostic infrastructure, and active collaboration in open source projects.</p>
+  
+  <a href="https://www.linkedin.com/in/paulo-app/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <!-- containerd -->
-  <a href="https://containerd.io/" target="_blank">
-    <img src="https://landscape.cncf.io/logos/f26381b645b2f14293a2a597bc98b5bbe1e5e086029de41830ba7c667353bf3e.svg" alt="containerd" width="50" height="38" style="margin: 10px;"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauloappbr&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph" width="100%" />
 
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" style="margin: 10px;"/>
-  </a>
+  <br>
 
-  <!-- Terraform -->
-  <a href="https://caddyserver.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Caddyserver_logo_-_no_wordmark.svg/2113px-Caddyserver_logo_-_no_wordmark.svg.png" alt="Caddy" width="40" style="margin: 10px;"/>
+  <a href="https://github.com/pauloappbr">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauloappbr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
   </a>
-
-</p>
-
-
-
----
-<p align="left">
-  <a href="mailto:contato@paulo.app.br" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/pauloappbr">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauloappbr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" height="150" />
   </a>
-  <a href="https://linkedin.com/in/paulo-app" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  <a href="https://github.com/pauloappbr">
+    <img src="https://streak-stats.demolab.com/?user=pauloappbr&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
   </a>
-  <a href="https://github.com/Pauloappbr" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
