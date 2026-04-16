@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    Creator of <b><a href="https://github.com/pauloappbr/gojinn">Gojinn</a></b>. Passionate about <b>Golang</b>, building cloud-agnostic infrastructure, and actively contributing to high-performance open-source projects.
+    Creator of <b><a href="https://github.com/gojinn-io/gojinn">Gojinn</a></b>. Passionate about <b>Golang</b>, building cloud-agnostic infrastructure, and actively contributing to high-performance open-source projects.
   </p>
 
   <br>
